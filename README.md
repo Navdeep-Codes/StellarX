@@ -36,14 +36,6 @@ StellarX is a platform designed to manage projects within a community/club setti
     * Backend: Python? Node.js?
     * Database: TBD
 
-## Current Status (As of ~April 10-13, 2025)
-
-* **Phase:** Early Development / Planning.
-* **Concept:** Core concept ("The Plan") defined.
-* **Tasks:** Initial task assignments discussed (Tim: Stocks; Navdeep/Praveen: Main Website - subject to change).
-* **Deadline:** A deadline of **April 12th, 2025** was set by Navdeep for project completion and proposal to HQ. Feasibility concerns regarding this deadline have been raised.
-* **Roadmap:** Final roadmap needs to be defined (Tim to propose).
-* **Logistics:** Communication schedule and other team logistics need to be finalized (Tim to propose).
 
 ## Team
 
